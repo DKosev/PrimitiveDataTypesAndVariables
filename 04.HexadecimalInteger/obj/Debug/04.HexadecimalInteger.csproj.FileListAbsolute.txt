@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\04.HexadecimalInteger\bin\Debug\04.HexadecimalInteger.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\04.HexadecimalInteger\bin\Debug\04.HexadecimalInteger.exe
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\04.HexadecimalInteger\bin\Debug\04.HexadecimalInteger.pdb
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\04.HexadecimalInteger\obj\Debug\04.HexadecimalInteger.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\04.HexadecimalInteger\obj\Debug\04.HexadecimalInteger.exe
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\04.HexadecimalInteger\obj\Debug\04.HexadecimalInteger.pdb

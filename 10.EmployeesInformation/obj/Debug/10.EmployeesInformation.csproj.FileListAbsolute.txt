@@ -1,0 +1,1 @@
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\10.EmployeesInformation\bin\Debug\10.EmployeesInformation.exe.config

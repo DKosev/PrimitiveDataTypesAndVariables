@@ -1,0 +1,1 @@
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.exe.config
